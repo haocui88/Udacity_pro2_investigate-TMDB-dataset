@@ -8,6 +8,7 @@ The tools I used is juypter notebook for the data exploration, data wrangling an
 >* NumPy
 >* Matplotlib
 >* Seaborn
+>* Statsmodels
 
 
 
