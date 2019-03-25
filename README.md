@@ -50,4 +50,4 @@ Overall, we can see a increase trend regarding the number of the movies being re
 ## Limitations
 * In the data cleaning process, I just dropped all the null data. However, it may have the possiblities that these data could change the trends and pattern of the investigated data. 
 * In the data cleaning process, I just dropped all the data whose budgest and revenue is '0'. However, it may have the possiblities that these mistakenly input data could change the trends and pattern of the investigated data. 
-* By doing the multiple linear regression, I assumed all the aussmptions of regressions are met. However, we may need more furether information to show the case.
+* By doing the multiple linear regression, I assumed all the aussmptions of regressions are met. However, we may need more furether information to show if these assumptions are met.
